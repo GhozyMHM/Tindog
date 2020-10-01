@@ -25,12 +25,12 @@ h1{
     padding-top: 25px;
     width: 50%;
     right: 30%;
-    
+    position: absolute;   
 }
 #features{
-    
+    position: relative;
     padding: 100px;
-    
+    /* z-index: 1; */
     background-color: #fff;
 }
 .feu-box{
